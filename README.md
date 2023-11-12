@@ -10,3 +10,9 @@ Assignment for Android Dev Course at HUST
 ### Bài 2
 
 ![google-play-app](./pic/google-play-app.png)
+
+# Tuần 8
+
+Contact App
+
+![ContactApp-1](./pic/ContactApp-1.png)
