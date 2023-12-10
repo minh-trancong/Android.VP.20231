@@ -1,0 +1,5 @@
+com.example.android.unscramble.test.app-androidTest-0 /Users/minh/Minh-Codespace/Android.VP.20231/11.1-codelab8-ex1/app/build/generated/res/resValues/androidTest/debug
+com.example.android.unscramble.test.app-androidTest-1 /Users/minh/Minh-Codespace/Android.VP.20231/11.1-codelab8-ex1/app/build/generated/res/rs/androidTest/debug
+com.example.android.unscramble.test.app-mergeDebugAndroidTestResources-2 /Users/minh/Minh-Codespace/Android.VP.20231/11.1-codelab8-ex1/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.android.unscramble.test.app-mergeDebugAndroidTestResources-3 /Users/minh/Minh-Codespace/Android.VP.20231/11.1-codelab8-ex1/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.android.unscramble.test.app-merged_res-4 /Users/minh/Minh-Codespace/Android.VP.20231/11.1-codelab8-ex1/app/build/intermediates/merged_res/debugAndroidTest
